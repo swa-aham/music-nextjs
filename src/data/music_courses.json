@@ -1,0 +1,69 @@
+{
+    "courses": [
+      {
+        "course_id": "MUS101",
+        "course_name": "Introduction to Music Theory",
+        "instructor": "John Smith",
+        "duration_weeks": 10,
+        "description": "This course covers the basics of music theory, including notation, rhythm, scales, and chords.",
+        "level": "Beginner",
+        "price_usd": 100,
+        "start_date": "2024-09-01",
+        "topics": [
+          "Notation",
+          "Rhythm",
+          "Scales",
+          "Chords"
+        ]
+      },
+      {
+        "course_id": "MUS201",
+        "course_name": "Advanced Piano Techniques",
+        "instructor": "Jane Doe",
+        "duration_weeks": 12,
+        "description": "An advanced course for piano players looking to enhance their technique and repertoire.",
+        "level": "Advanced",
+        "price_usd": 200,
+        "start_date": "2024-09-15",
+        "topics": [
+          "Finger Techniques",
+          "Complex Repertoire",
+          "Performance Skills"
+        ]
+      },
+      {
+        "course_id": "MUS301",
+        "course_name": "Jazz Improvisation",
+        "instructor": "Mike Johnson",
+        "duration_weeks": 8,
+        "description": "Learn the art of jazz improvisation with expert guidance and practice exercises.",
+        "level": "Intermediate",
+        "price_usd": 150,
+        "start_date": "2024-10-01",
+        "topics": [
+          "Improvisation Techniques",
+          "Jazz Scales",
+          "Chord Progressions",
+          "Soloing"
+        ]
+      },
+      {
+        "course_id": "MUS401",
+        "course_name": "Music Production and Technology",
+        "instructor": "Sara Lee",
+        "duration_weeks": 14,
+        "description": "A comprehensive course on music production, covering DAWs, mixing, mastering, and more.",
+        "level": "All Levels",
+        "price_usd": 300,
+        "start_date": "2024-09-10",
+        "topics": [
+          "Digital Audio Workstations (DAWs)",
+          "Mixing",
+          "Mastering",
+          "Sound Design",
+          "Recording Techniques"
+        ]
+      }
+    ]
+  }
+  
